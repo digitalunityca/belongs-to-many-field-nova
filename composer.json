@@ -1,5 +1,5 @@
 {
-    "name": "clubpiscine/belongs-to-many-field",
+    "name": "club-piscine/belongs-to-many-field",
     "description": "belongsToMany nova representation in field.",
     "keywords": [
         "laravel",
