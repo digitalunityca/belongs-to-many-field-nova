@@ -1,5 +1,5 @@
 {
-    "name": "digitalunity/belongs-to-many-field",
+    "name": "clubpiscine/belongs-to-many-field",
     "description": "belongsToMany nova representation in field.",
     "keywords": [
         "laravel",
